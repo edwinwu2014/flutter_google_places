@@ -292,7 +292,7 @@ class PoweredByGoogleImage extends StatelessWidget {
             Theme.of(context).brightness == Brightness.light
                 ? _poweredByGoogleWhite
                 : _poweredByGoogleBlack,
-            scale: 2.5,
+            scale: 3.5,
           ))
     ]);
   }
